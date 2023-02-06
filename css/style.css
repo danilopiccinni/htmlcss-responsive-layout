@@ -84,7 +84,7 @@ nav a {
     border-radius: 12px;
 }
 
-.col-1 {
+.sezione-1 .col-1 {
     padding-bottom: 0;
     
 }
@@ -192,3 +192,51 @@ nav a {
 }
 
 /* /sezione3 */
+
+
+/* sezione 4 */
+
+.sezione-4 .titolo {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    background-color: transparent;
+}
+.sezione-4 {
+    background-color: #9792e4;
+    padding-top: 25px;
+}
+
+.sezione-4 .button {
+    background-color: #9792e4;
+    border-radius: 25px;
+    padding: 0.5em 4em;
+    color: white;
+
+    align-self: flex-start;
+}
+
+.sezione-4 .col {
+    background-color: white;
+    text-align: left;
+}
+
+.sezione-4 .col span {
+    font-size: 50px;
+    color: #9792e4;
+}
+
+.sezione-4 .col strong {
+    font-size: 25px;
+    color: #9792e4;
+}
+
+.sezione-4 {
+    padding-bottom: 25px;
+}
+
+.sezione-4 a {
+    text-decoration: none;
+}
+
+/* /sezione 4 */
