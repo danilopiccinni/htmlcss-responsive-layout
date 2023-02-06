@@ -53,3 +53,72 @@ a {
 
 /* nav */
 /* ----------------------- */
+
+
+
+/* ----------------------- */
+/* main */
+
+/* sezione1 */
+.inner-1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 25px;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+    text-align: center;
+
+
+    width: 80%;
+    margin: auto;
+    margin: 50px;
+    padding: 50px;
+
+    background-color: #b5ddff;
+    border-radius: 12px;
+}
+
+.col-1 {
+    padding-bottom: 0;
+    
+}
+
+.col-1 img {
+    width: 80%;
+}
+
+.fa-file-code, 
+.fa-compass-drafting, 
+.fa-laptop-code,
+.fa-bullhorn        {
+    font-size: 100px;
+    color: #2284fd;
+}
+
+.col strong {
+    font-size: 25px;
+    color: #2284fd;
+}
+
+.col p {
+    line-height: 1.6em;
+}
+
+.app-store-button {
+    background-color: #2284fd;
+    border-radius: 25px;
+    padding: 0.5em 4em;
+    color: white;
+
+    align-self: flex-start;
+}
+
+/* /sezione1 */
+
+
