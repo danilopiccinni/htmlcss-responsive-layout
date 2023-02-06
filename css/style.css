@@ -278,8 +278,23 @@ nav a {
     border-radius: 25px;
     padding: 0.5em 4em;
     color: white;
-    
 
 }
 
 /* /sezione 5 */
+
+
+/* sezione 6 */
+
+.sezione-6 {
+    background-color: #9792e4;
+}
+
+.sezione-6 .col {
+    background-color: transparent;
+}
+
+
+
+
+/* /sezione 6 */
