@@ -12,7 +12,7 @@ nav {
     background-color: #2284fd;
 }
 
-a {
+nav a {
     text-decoration: none;
     color: white;
 }
@@ -101,7 +101,7 @@ a {
     color: #2284fd;
 }
 
-.col strong {
+.sezione-1 .col strong {
     font-size: 25px;
     color: #2284fd;
 }
@@ -121,4 +121,39 @@ a {
 
 /* /sezione1 */
 
+
+.cont-sez-2 {
+    background-color: #9792e4;
+    padding-bottom: 25px;
+}
+
+.sezione-2 .col {
+    background-color: #9792e4;
+    padding: 50px 0;
+
+}
+.sezione-2 .col-1{
+    color: white;
+    text-align: left;
+}
+
+.sezione-2 .col-1 img {
+    width: 100%;
+}
+
+.sezione-2 .col-2 {
+    background-color: white;
+    padding: 30px;
+}
+
+.sezione-2 .col-2 strong {
+    font-size: 25px;
+}
+
+.fa-arrow-down {
+    font-size: 30px;
+    background-color: #9792e4;
+    border-radius: 50%;
+    padding: 20px;
+}
 
