@@ -122,6 +122,8 @@ nav a {
 /* /sezione1 */
 
 
+
+/* sezione2 */
 .cont-sez-2 {
     background-color: #9792e4;
     padding-bottom: 25px;
@@ -156,4 +158,33 @@ nav a {
     border-radius: 50%;
     padding: 20px;
 }
+/* /sezione2 */
 
+
+/* sezione3 */
+
+.sezione-3 .col-1 strong {
+    font-size: 35px;
+    color: #9792e4;
+}
+
+.sezione-3 .col {
+    background-color: #9792e4;
+    color: white;
+}
+
+.sezione-3 .col-1 {
+    background-color: transparent;
+    color: black;
+}
+
+.sezione-3 .col img {
+    border-radius: 50%;
+}
+
+.fa-quote-left,
+.fa-quote-right {
+    font-size: 25px;
+}
+
+/* /sezione3 */
