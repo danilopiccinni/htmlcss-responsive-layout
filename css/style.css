@@ -399,9 +399,71 @@ nav a {
 
 .sezione-6 .col {
     background-color: transparent;
+    color: white;
+    margin-bottom: 0;
+}
+
+.sezione-6 .a {
+    font-size: 25px;
+    color: #d3d2f3;
+} 
+
+.sezione-6 .b {
+    font-size: 50px;
+} 
+
+.sezione-6 .c {
+    font-size: 70px;
+    color: #fac15f;
+} 
+
+.sezione-6 .d {
+    font-size: 25px;
+    padding: 0 50px;
+} 
+
+.sezione-6 .e {
+    text-decoration: none;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 50px;
+    align-self: center;
+    padding: 1em 5em;
+    font-size: 30px;
+} 
+
+.sezione-6 .f {
+    font-size: 23px;
+}
+
+.sezione-6 .f a {
+    color: white;
 }
 
 /* /sezione 6 */
+
+
+/* footer */
+.footer {
+    background-color: #333333;
+    color: white;
+    font-size: 25px;
+
+}
+
+.footer .col {
+    background-color: transparent;
+    margin: 0;
+}
+
+.footer .col-2 {
+    gap: 0;
+}
+
+.footer a {
+    color:#9792e4;
+}
+/* /footer */
 
 
 /* mediaqwery */
